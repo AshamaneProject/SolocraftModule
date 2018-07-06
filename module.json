@@ -1,0 +1,16 @@
+{
+    "title": "Solocraft Module",
+    "version": "1.0.0",
+    "files": [
+        "solocraft.cpp"
+    ],
+    "sql": {
+        "onInstall": [
+        ],
+        "onRemove": [
+        ]
+    },
+    "AddSCs": [
+        "AddSC_solocraft"
+    ]
+}
